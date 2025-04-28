@@ -61,7 +61,7 @@ export default function Home() {
             required
           />
           {error && <p className="text-red-500 text-sm">{error}</p>}
-          <button type="submit" className="bg-[#12a14b] text-white p-2 rounded hover:bg-[#5a3c2a]">
+          <button type="submit" className="bg-[#6b4c35] text-white p-2 rounded hover:bg-[#12a14b]">
             Iniciar sesión
           </button>
         </form>
