@@ -21,7 +21,7 @@ export default function Page1() {
             <p className="text-lg">disfruta tu experiencia en GreenPark.</p>
           </>
         ) : (
-          <h1 className="text-2xl font-bold">Cargando...</h1>
+          <h1 className="text-2xl font-bold">Prueba</h1>
         )}
       </main>
     </div>
